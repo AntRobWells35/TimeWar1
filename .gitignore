@@ -21,11 +21,10 @@ bin-release/
 
 /Saved
 
-*.sln
+
 
 *.sdf
 
-*.suo 
 
 *.db
 
