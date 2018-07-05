@@ -33,6 +33,9 @@ bin-release/
 
 *.ipch
 
+*.db-shm
+
+
 
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
